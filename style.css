@@ -92,7 +92,7 @@ header ul li a:hover {
 
 #show-case { 
     min-height: 400px;
-    background: url(../img/show_case.jpg) no-repeat 0 -340px;
+    background: url(show_case.jpg) no-repeat 0 -340px;
     text-align: center;
     color: #ffffff;
 }
